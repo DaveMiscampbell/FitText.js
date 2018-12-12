@@ -1,0 +1,19 @@
+{
+  "name": "fittext",
+  "version": "1.0.0",
+  "description": "FitText makes font-sizes flexible. Use this <del>plugin</del> script on your fluid or responsive layout to achieve scalable headlines that fill the width of a parent element.",
+  "main": "fittext.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaveMiscampbell/FitText.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaveMiscampbell/FitText.js/issues"
+  },
+  "homepage": "https://github.com/DaveMiscampbell/FitText.js#readme"
+}
